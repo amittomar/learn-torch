@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+data/
+transformer/movie_data.csv.gz
+transformer/movie_data.csv
+video_notebooks/data
